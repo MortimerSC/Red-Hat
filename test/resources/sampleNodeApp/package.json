@@ -195,6 +195,6 @@
     "request": "2.88.0",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
-    "vscode-languageclient": "3.1.0"
+    "vscode-languageclient": "3.5.1"
   }
 }
